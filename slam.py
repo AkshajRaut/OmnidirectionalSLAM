@@ -136,4 +136,3 @@ def run_slam(video_path):
 
 if __name__ == '__main__':
     run_slam("equirectangular.mp4")
-
